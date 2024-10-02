@@ -1,0 +1,30 @@
+
+.recursive{
+  font-family: 'recursive';
+  font-variation-settings: "wght" 1000, "MONO" 1, "CASL" 1, "slnt" 0;
+}
+
+
+
+.handjet{
+  font-family: 'handjet';
+  font-variation-settings: "wght" 900, "ELGR" 16, "ELSH" 1; 
+}
+
+h2{
+  font-size: 200px;
+  color: blue;
+}
+ 
+#premier{
+  position:relative;
+  top: 275px;
+  left: 750px;
+  color: grey;
+  z-index: index -1;
+}
+  
+#deuxieme{
+  color: red;
+} 
+  
